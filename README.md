@@ -13,4 +13,4 @@ git clone https://github.com/TnMasha/CFtc
 
 cd CFtc
 
-python CFc.py
+python CFt.py
